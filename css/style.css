@@ -1,0 +1,58 @@
+body{
+
+}
+#draggable { width: 150px;
+   height: 150px; 
+   padding: 0.5em; 
+  }
+  #draggable {
+     width: 100px;
+     height: 100px;
+     padding: 0.5em;
+     float: left;
+      margin: 10px 10px 10px 0;
+     }
+  #droppable {
+     width: 150px;
+     height: 150px;
+     padding: 0.5em;
+     float: left;
+      margin: 10px;
+     }
+   #sortable li{
+     margin-bottom: 10px;
+   }
+   .ui-menu {
+      width: 150px; 
+    }
+    label {
+      display: inline-block;
+      width: 5em;
+    }
+    .toggler { width: 500px;
+       height: 200px;
+       position: relative;
+       overflow: hidden;
+     }
+    #button { padding: .5em 1em;
+       text-decoration: none;
+     }
+    #effect { width: 240px;
+        padding: 1em;
+       border: 1px solid #000;
+       background: #eee;
+       color: #333;
+     }
+    .newClass { text-indent: 40px;
+       letter-spacing: .4em;
+       width: 410px;
+       height: 120px;
+       padding: 30px;
+       margin: 10px;
+       font-size: 1.1em;
+     }
+
+     toggler { width: 500px; height: 200px; position: relative; }
+     #button { padding: .5em 1em; text-decoration: none; }
+     #effect { width: 240px; height: 170px; padding: 0.4em; position: relative; background: #fff; }
+     #effect h3 { margin: 0; padding: 0.4em; text-align: center; }
